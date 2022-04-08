@@ -1,3 +1,12 @@
+To run project, first clone repository. Next, you'll want to run command "sudo npm i" in the console to download all depndencies. Lastly, you can run npm run start to run the project locally.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
